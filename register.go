@@ -1,8 +1,8 @@
 package martian
 
 import (
-	"github.com/devopsfaith/krakend-martian/register"
-	"github.com/google/martian/parse"
+	"github.com/montexristos/krakend-martian/register"
+	"github.com/montexristos/martian/parse"
 )
 
 // Register gets all the modifiers from the krakend-martian register and registers

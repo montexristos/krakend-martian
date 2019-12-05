@@ -12,7 +12,7 @@ import (
 	"github.com/devopsfaith/krakend/transport/http/client"
 	"github.com/gin-gonic/gin"
 
-	"github.com/devopsfaith/krakend-martian"
+	"github.com/montexristos/krakend-martian"
 )
 
 func main() {

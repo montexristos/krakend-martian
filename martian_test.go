@@ -14,7 +14,7 @@ import (
 	"github.com/devopsfaith/krakend/config"
 	"github.com/devopsfaith/krakend/logging"
 	"github.com/devopsfaith/krakend/proxy"
-	"github.com/google/martian/parse"
+	"github.com/montexristos/martian/parse"
 )
 
 func TestHTTPRequestExecutor_ok(t *testing.T) {

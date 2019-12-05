@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/google/martian/parse"
-	"github.com/google/martian/static"
+	"github.com/montexristos/martian/parse"
+	"github.com/montexristos/martian/static"
 )
 
 // StaticModifier is a martian.RequestResponseModifier that routes reqeusts to rootPath

@@ -9,9 +9,9 @@ import (
 	"path"
 	"testing"
 
-	"github.com/google/martian"
-	"github.com/google/martian/parse"
-	"github.com/google/martian/proxyutil"
+	"github.com/montexristos/martian"
+	"github.com/montexristos/martian/parse"
+	"github.com/montexristos/martian/proxyutil"
 )
 
 func Test404WhenExplictlyMappedFileDoesNotExist(t *testing.T) {

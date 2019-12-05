@@ -12,6 +12,7 @@ require (
 	github.com/gin-gonic/gin v1.3.0
 	github.com/golang/protobuf v1.3.1
 	github.com/google/martian v2.1.0+incompatible // indirect
+	github.com/google/martian/v3 v3.0.0 // indirect
 	github.com/hashicorp/hcl v1.0.0
 	github.com/json-iterator/go v1.1.6
 	github.com/magiconair/properties v1.8.0
@@ -19,7 +20,7 @@ require (
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
 	github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742
-	github.com/montexristos/martian v2.1.0+incompatible
+	github.com/montexristos/martian v1.0.3
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/pelletier/go-toml v1.3.0
 	github.com/spf13/afero v1.2.2

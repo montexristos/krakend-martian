@@ -12,7 +12,7 @@ Add your martian DSL definition under the "github.com/devopsfaith/krakend-martia
 }
 ```
 
-More details here: https://github.com/google/martian#modifiers-all-the-way-down
+More details here: https://github.com/montexristos/martian#modifiers-all-the-way-down
 
 Check the [example](https://github.com/devopsfaith/krakend-martian/tree/master/example) folder for a complete demo.
 
